@@ -1,0 +1,82 @@
+@import "variable";
+
+.btn-danger {
+	background-color: $text-danger;
+	border-color: $text-danger;
+  font-family: 'montserratregular';
+  color: #fff;
+}
+
+.btn-grey {
+	background-color: $btn-grey;
+	border-color: $btn-grey;
+	color: #fff;
+}
+
+.text-danger {
+	color: $text-danger !important;
+}
+
+// custom inc n box-decoration-break: 
+
+
+.quantity {
+  position: relative;
+  input {
+    width: 70px;
+    height: 42px;
+    float: left;
+    text-align: center;
+    padding-right: 20px;
+    border: 1px solid #eee;
+    &:focus {
+      outline: 0;
+    }
+  }
+  .quantity-nav {
+    float: left;
+    position: relative;
+    height: 42px;
+  }
+  .quantity-button {
+    position: relative;
+    cursor: pointer;
+    border-left: 1px solid #eee;
+    width: 20px;
+    text-align: center;
+    color: #333;
+    font-size: 13px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif !important;
+    line-height: 1.7;
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+  }
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button
+  {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  input[type=number]
+  {
+    -moz-appearance: textfield;
+  }
+  .quantity-button.quantity-up {
+    position: absolute;
+    height: 50%;
+    top: 0;
+    border-bottom: 1px solid #eee;
+  }
+
+  .quantity-button.quantity-down {
+    position: absolute;
+    bottom: -1px;
+    height: 50%;
+  }
+}

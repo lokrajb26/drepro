@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="125 9977 44 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9d0303;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Path_1093" data-name="Path 1093" class="cls-1" d="M40,10.182V26H4V10.182L0,12V10L22,0h0L44,10v2ZM6,9.273v3.466a19.305,19.305,0,0,1,4.132-5.344ZM6,16V26H38V16h0c-1.1-5.024-4.753-8.189-7.741-10H13.741C10.753,7.811,7.1,10.976,6,16ZM22,2,17.6,4h8.8ZM33.868,7.395A19.305,19.305,0,0,1,38,12.739V9.273Z" transform="translate(125 9977)"/>
+</svg>

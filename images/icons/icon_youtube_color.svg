@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="455 2458 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Facebook" transform="translate(410 1510)">
+    <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-1" cx="20" cy="20" r="20" transform="translate(45 948)"/>
+    <g id="XMLID_1_" transform="translate(55 961)">
+      <path id="XMLID_3_" class="cls-2" d="M19.58,2.2A2.531,2.531,0,0,0,17.807.42C16.25,0,10,0,10,0S3.75,0,2.182.42A2.512,2.512,0,0,0,.409,2.2,26.87,26.87,0,0,0,0,7.045a26.16,26.16,0,0,0,.42,4.841A2.531,2.531,0,0,0,2.193,13.67c1.557.42,7.807.42,7.807.42s6.25,0,7.818-.42a2.512,2.512,0,0,0,1.773-1.784A26.87,26.87,0,0,0,20,7.045,26.16,26.16,0,0,0,19.58,2.2Z"/>
+      <path id="XMLID_2_" class="cls-1" d="M70,41.755l5.227-2.977L70,35.8Z" transform="translate(-62.045 -31.732)"/>
+    </g>
+  </g>
+</svg>

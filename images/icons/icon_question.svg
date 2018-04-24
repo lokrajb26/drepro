@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 505 20 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9d0303;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 16px;
+        font-family: Montserrat-Regular, Montserrat;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(0 159)">
+    <rect id="Rectangle_81" data-name="Rectangle 81" class="cls-1" width="20" height="20" rx="4" transform="translate(40 347)"/>
+    <text id="Q" class="cls-2" transform="translate(50 362)"><tspan x="-6.598" y="0">Q</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,71 @@
+@import "variable";
+.custom-primary-header { 
+	box-shadow: 0 1px 0 $border-color;
+	background-repeat: no-repeat;
+	padding: 0;
+	background-color: #F8F9F9;
+	.navbar-nav .nav-link {
+		color: $text-danger;
+		padding: 4px 15px;
+	}
+	.nav-item.active {
+		font-family: 'montserratmedium';
+	}
+	.navbar-brand {
+		height: 48px;
+	}
+}
+.dealer-dropdown .dropdown-toggle::after {
+	content: none;
+}
+.custom-secondary-header {
+	box-shadow: 0 1px 0 $border-color;
+	.btn-danger , .form-control {
+		font-family: 'montserratregular';
+		height: 34px;
+		line-height: 1;
+	}
+	.nav-item.active a {
+		font-family: 'montserratmedium';
+		color: $text-danger;
+	}
+
+}
+
+.customer-service, .custom-secondary-header {
+	.nav-item{
+		a {
+			color: $nav-link;
+		}
+		&:last-child {
+			padding-right: 0;
+		}
+	}
+}
+// hamburger for both headers starts
+.custom-primary-header, .custom-secondary-header {
+	.navbar-toggler {
+		border:1px solid $text-danger;
+		padding: 2px 4px;
+		margin: 10px 0;
+	}
+	.icon-bar {
+		display: block;
+		width: 1.5em;
+		height: 2px;
+		background-color:  $text-danger;
+		margin: 4px;
+	}
+}
+// hamburger for both headers ends
+
+
+
+
+
+
+
+
+
+
+

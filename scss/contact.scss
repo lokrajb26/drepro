@@ -1,0 +1,35 @@
+@import "variable";
+
+
+.office-warehouse-location {
+	.location-title {
+		color: $text-default;
+	}
+	.location-address {
+		color: $nav-link;
+	}
+	.office-location {
+		p{
+			color: $nav-link;
+		}
+		h5{
+			font-family: 'montserratmedium';
+		}
+	}
+}
+.our-location {
+	border-right: 1px solid $border-color;
+}
+.toll-free {
+	padding: 40px 0;
+	border-top:1px solid $border-color;
+	border-bottom: 1px solid $border-color;
+	
+}
+.toll-free-number {
+	font-family: 'montserratmedium';
+	font-size: 30px;
+}
+.contact-map {
+	height: 430px;
+}

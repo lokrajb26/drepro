@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="2658 1671 60 60.001">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="icon_marketing" transform="translate(2653.375 1666.374)">
+    <g id="Group_408" data-name="Group 408" transform="translate(4.625 4.627)">
+      <path id="Path_1099" data-name="Path 1099" class="cls-1" d="M64.625,4.638l-21.14-.012,8.188,8.483L34.517,31.089,22.7,18.421,4.625,33.118l3.86,5.021,13.32-11.1L34.517,39.915s1.011-.762,21.527-22.279l8.574,6.925Z" transform="translate(-4.625 -4.627)"/>
+      <path id="Path_1100" data-name="Path 1100" class="cls-1" d="M27.4,339.3v16.1c.033-.007,6.185,0,6.185,0V339.3C33.632,339.324,27.4,339.3,27.4,339.3Z" transform="translate(-25.464 -295.403)"/>
+      <path id="Path_1101" data-name="Path 1101" class="cls-1" d="M129,263.1v25.765h6.185V263.1Z" transform="translate(-114.693 -228.865)"/>
+      <path id="Path_1102" data-name="Path 1102" class="cls-1" d="M230.6,364.7v12.882h6.185V364.7Z" transform="translate(-203.923 -317.583)"/>
+      <path id="Path_1103" data-name="Path 1103" class="cls-1" d="M332.2,288.5v22.544h6.185V288.5Z" transform="translate(-293.152 -251.044)"/>
+      <path id="Path_1104" data-name="Path 1104" class="cls-1" d="M433.8,212.3v32.206h6.185V212.3Z" transform="translate(-382.382 -184.506)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1333 200 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #455860;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_360_roof_bracing_black" class="cls-1" d="M29.333,2.667,2.667,29.333V44H0V26.667A26.666,26.666,0,0,1,26.667,0H44V2.667H29.333Zm-26.667,24,24-24A24,24,0,0,0,2.667,26.667Z" transform="translate(1333 200)"/>
+</svg>

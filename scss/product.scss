@@ -1,0 +1,49 @@
+@import "variable";
+
+.product {
+	margin: 20px 0;
+	.card{
+		border:0;
+		.card-img-top {
+			background-repeat: no-repeat;
+			background-size: contain;
+			height: 250px;
+		}
+		.card-title {
+			font-size: 20px;
+			color: $text-default;
+		}
+		.card-text {
+			color: $text-grey;
+		}
+		.card-description {
+			color: $nav-link;
+			display: -webkit-box;
+			-webkit-line-clamp: 3;
+			-webkit-box-orient: vertical;
+			overflow: hidden;
+			height: 70px;
+		}
+		.card-modify-build {
+			.btn-danger  {
+				padding: 4px 8px;
+				font-size: 14px;
+			}
+		}
+	}
+}
+
+
+// accesories
+.accessories {
+	.accessories-block .media-body {
+		font-size: 14px;
+	}
+	#accessoriesCarouselIndicators {
+		.carousel-inner {
+			width: 90%;
+			margin: 0 auto;
+		}
+	}
+}
+

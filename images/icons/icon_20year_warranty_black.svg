@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1337 30 36 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #455860;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="icon_20year_warranty_black" class="cls-1" d="M18,44C7.67,41.47,0,31.11,0,20V8L18,0,36,8V20C36,31.11,28.33,41.47,18,44ZM34,9,18,2,2,9V20c1,12,8.55,19.71,16,22,7.45-2.29,15-10,16-22ZM18,30a8,8,0,1,1,8-8A8,8,0,0,1,18,30Zm0-14a6,6,0,1,0,6,6A6,6,0,0,0,18,16Zm0,9-1,1-1-1h0l-2-2,1-1,2,2,4-4,1,1-4,4Z" transform="translate(1337 30)"/>
+</svg>

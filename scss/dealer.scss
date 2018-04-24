@@ -1,0 +1,44 @@
+@import "variable";
+
+#loginModal, #requestQuoteModal {
+	color: $nav-link;
+}
+.dealer-page {
+	color: $nav-link;
+	.text-black {
+		color: #181E21;
+	}
+}
+.news-letter {
+	padding: 20px;
+	border-bottom: 1px solid $border-color;
+	h3 {
+		font-size: 20px;
+		font-family: 'montserratmedium';
+	}
+	.input-group-addon {
+		@include border-radius(4px);
+	}
+}
+
+//service area 
+.service-area {
+	.search-dealer {
+		padding: 30px 0;
+	}
+	.service-area-state {
+		a{
+			color: $text-default;
+		}
+		.dot {
+			width: 8px;
+			height: 8px;
+			@include border-radius(50%);
+			background-color: $bullet-color;
+			margin: 2px 10px;
+			display: inline-block;
+		}
+	}
+}
+
+

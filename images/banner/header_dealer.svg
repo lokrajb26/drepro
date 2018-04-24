@@ -1,0 +1,26 @@
+<svg id="Group_154" data-name="Group 154" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="991 1943 726 51">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9d0303;
+      }
+
+      .cls-2 {
+        filter: url(#Dealer_BG);
+      }
+    </style>
+    <filter id="Dealer_BG" x="991" y="1943" width="594" height="51" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#666"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g class="cls-2" transform="matrix(1, 0, 0, 1, 0, 0)">
+    <path id="Dealer_BG-2" data-name="Dealer BG" class="cls-1" d="M80,0H624l50,50H80Z" transform="translate(911 1943)"/>
+  </g>
+  <path id="Dealer_BG-3" data-name="Dealer BG" class="cls-1" d="M595,0h29l50,50H645Z" transform="translate(955 1943)"/>
+  <path id="Dealer_BG-4" data-name="Dealer BG" class="cls-1" d="M595,0h29l50,50H645Z" transform="translate(999 1943)"/>
+  <path id="Dealer_BG-5" data-name="Dealer BG" class="cls-1" d="M595,0h29l50,50H645Z" transform="translate(1043 1943)"/>
+</svg>
