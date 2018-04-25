@@ -1,0 +1,18 @@
+[debug] [2018-04-25T19:01:43.801Z] ----------------------------------------------------------------------
+[debug] [2018-04-25T19:01:43.805Z] Command:       /usr/local/bin/node /usr/local/bin/firebase deploy
+[debug] [2018-04-25T19:01:43.805Z] CLI Version:   3.18.4
+[debug] [2018-04-25T19:01:43.805Z] Platform:      darwin
+[debug] [2018-04-25T19:01:43.805Z] Node Version:  v8.6.0
+[debug] [2018-04-25T19:01:43.806Z] Time:          Thu Apr 26 2018 00:31:43 GMT+0530 (IST)
+[debug] [2018-04-25T19:01:43.806Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-04-25T19:01:43.835Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-04-25T19:01:43.836Z] > authorizing via signed-in user
+[debug] [2018-04-25T19:01:43.839Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/dredgepro-demo  
+  
+ Thu Apr 26 2018 00:31:43 GMT+0530 (IST)
+[debug] [2018-04-25T19:01:46.822Z] <<< HTTP RESPONSE 200
+[debug] [2018-04-25T19:01:46.823Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/dredgepro-demo/tokens  
+  
+ Thu Apr 26 2018 00:31:46 GMT+0530 (IST)
+[debug] [2018-04-25T19:01:49.068Z] <<< HTTP RESPONSE 200

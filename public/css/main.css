@@ -9573,7 +9573,7 @@ input[type=date] {
 }
 
 #homeCarouselIndicators .carousel-inner {
-  height: 660px;
+  height: calc(100vh - 90px);
   /* margin-bottom: 50px; */
 }
 #homeCarouselIndicators .carousel-inner .carousel-item > div {
