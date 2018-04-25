@@ -9547,7 +9547,10 @@ input[type=date] {
   background-size: cover;
 }
 .blog-recently-viewed .card .card-title {
-  font-size: 14px;
+  font-size: 16px;
+  line-height: 1.4;
+  text-align: center;
+  padding: 20px;
 }
 
 .home-service .media .media-body .media-heading {
@@ -10012,7 +10015,7 @@ input[type=date] {
   }
 
   body {
-    padding-bottom: 348px;
+    padding-bottom: 310px;
   }
 
   .footer {
@@ -10080,4 +10083,11 @@ body {
   background-size: contain;
   background-repeat: no-repeat;
   padding-right: 12px;
+}
+
+.promoter li{
+  list-style-type: circle;
+  margin-left: 20px;
+  padding-bottom: 15px;
+  font-size: 14px; 
 }
